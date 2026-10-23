@@ -1,0 +1,2 @@
+Invalid ELF files have the side-effect of causing the firmware to load
+the RAS Maintenance Mode kernel from EEPROM.

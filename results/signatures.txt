@@ -1,0 +1,9 @@
+Intel 0390 outer image             size=0x110284 key=1d32aec2f70c6283 sha256=af2398861af892e8d0cbeb93f18a801dd239c5b284eba78bedb573827fa35f27 VALID
+Intel 0390 FB1 (fboot1)            size=0x010000 key=1d32aec2f70c6283 sha256=d5e71697c53ea8a9ea8eb64b0212987d805594bce08dafa1f8cb1d8649bbce67 VALID
+Intel 0390 XFW (RAS maintenance)   size=0x021fd4 key=1d32aec2f70c6283 sha256=ac8023e6222a8d7b8e70e0d40c48b2aa4869410e3b1ebe89b86f5765eb5dbcd3 VALID
+Intel 0390 SMC firmware            size=0x030284 key=1d32aec2f70c6283 sha256=2a6b27beb79bf61ea293c40dd236f5a77c658f4b5d157fc876aa1fd4a2d89e2d VALID
+Intel 0391 outer image             size=0x110284 key=1d32aec2f70c6283 sha256=42c2f70a30e671d2675a1fd44edbe9c156d9c6de93af2feb21018c96e2f559a0 VALID
+Intel 0391 FB1 (fboot1)            size=0x010000 key=1d32aec2f70c6283 sha256=ec139cbbdf55993e824383b5787f62e22131d6b25a1e0430daaa7fac958897fe VALID
+Intel 0391 XFW (RAS maintenance)   size=0x021fd4 key=1d32aec2f70c6283 sha256=68667e3b894cbb82252b86749d81fbc3363fe4d154723bbd8f616be25d01f5c9 VALID
+Intel 0391 SMC firmware            size=0x030284 key=1d32aec2f70c6283 sha256=93e559afae879497d24c6726b53aca1312bfaacc1fd2bb4d17c74c016d270b81 VALID
+card FB1 (fboot1) at 0xFFFE0000    size=0x010000 key=1d32aec2f70c6283 sha256=d5e71697c53ea8a9ea8eb64b0212987d805594bce08dafa1f8cb1d8649bbce67 VALID

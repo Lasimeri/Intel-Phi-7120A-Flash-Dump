@@ -1,0 +1,25 @@
+tag  flag     size  bodyoff       phys      diff   dump_ff  image_ff  result
+SLF  0x02    70000    10000      90000         -         -         -  outside window
+SLR  0x22     1000     4000       5000         -         -         -  outside window
+SFX  0x0a    80000   100000     180000         -         -         -  outside window
+SRX  0x2a     3000     8000       c000         -         -         -  outside window
+DSC  0x04     2000     2000          0         -         -         -  outside window
+RPR  0xa1     1000     4000   fff75000      4096         0      4096  differs at +0..+fff
+MFG  0x05     1000     6000   fff76000       250      3846      4096  differs at +400..+fff
+PSM  0x05     1000     7000   fff77000         0      4096      4096  identical
+XRR  0xa9     3000     8000   fff78000         0     12288     12288  identical
+RS1  0x05     1000     b000   fff7b000         0      4096      4096  identical
+PST  0x05     1000     f000   fff7f000         0      4096      4096  identical
+PCI  0x81     8000    10000   fff80000        22     31956     31956  differs at +12..+7ffa
+PCC  0x85     8000    18000   fff88000        53     32715     32768  differs at +0..+40
+GD1  0x81    18000    20000   fff90000         0     75206     75206  identical
+CSS  0x81     2000    38000   fffa8000       284      6706      6706  differs at +14..+127e
+GCT  0x85     4000    3a000   fffaa000        91     16293     16384  differs at +3f80..+3fff
+GQT  0x81     2000    3e000   fffae000         0      5576      5576  identical
+PGT  0x81    10000    40000   fffb0000         0     65536     65536  identical
+VBL  0x81    10000    50000   fffc0000         0     65536     65536  identical
+VBU  0x81    10000    60000   fffd0000         0     65536     65536  identical
+FB1  0x81    10000    70000   fffe0000       259      5047      5048  differs at +14..+c195
+FB0  0x05    10000    80000   ffff0000     61271      4265     65536  differs at +0..+ffff
+XFW  0x88    80000   100000      90000         -         -         -  outside window
+in-window sections: 557056 bytes compared, 66326 bytes differ

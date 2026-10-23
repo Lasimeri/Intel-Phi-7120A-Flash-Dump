@@ -1,0 +1,75 @@
+ffe00000-fff76400  uniform
+fff76400-fff76700  NO MATCH
+fff76700-fff76f00  uniform
+fff76f00-fff77000  NO MATCH
+fff77000-fff80000  uniform
+fff80000-fff80100  NO MATCH
+fff80100-fff80300  file 10384-10584  match
+fff80300-fff87f00  uniform
+fff87f00-fff88100  NO MATCH
+fff88100-fff90000  uniform
+fff90000-fff91100  file 20284-21384  match
+fff91100-fff92000  uniform
+fff92000-fff92800  file 22284-22a84  match
+fff92800-fff93000  uniform
+fff93000-fff93c00  file 23284-23e84  match
+fff93c00-fff93d00  file 20f84-21084  match
+fff93d00-fff93e00  file 23f84-24084  match
+fff93e00-fff93f00  file 21184-21284  match
+fff93f00-fff94900  file 24184-24b84  match
+fff94900-fff98000  uniform
+fff98000-fff98c00  file 28284-28e84  match
+fff98c00-fff99000  uniform
+fff99000-fff99100  file 29284-29384  match
+fff99100-fff99800  file 22384-22a84  match
+fff99800-fff9a000  uniform
+fff9a000-fff9a600  file 2a284-2a884  match
+fff9a600-fff9a700  file 28984-28a84  match
+fff9a700-fff9ab00  file 2a984-2ad84  match
+fff9ab00-fff9b000  uniform
+fff9b000-fff9b100  file 2b284-2b384  match
+fff9b100-fff9b900  file 24384-24b84  match
+fff9b900-fffa0000  uniform
+fffa0000-fffa0c00  file 30284-30e84  match
+fffa0c00-fffa1000  uniform
+fffa1000-fffa1100  file 31284-31384  match
+fffa1100-fffa1800  file 22384-22a84  match
+fffa1800-fffa2000  uniform
+fffa2000-fffa2b00  file 32284-32d84  match
+fffa2b00-fffa3000  uniform
+fffa3000-fffa3100  file 33284-33384  match
+fffa3100-fffa3900  file 24384-24b84  match
+fffa3900-fffa8000  uniform
+fffa8000-fffa8300  NO MATCH
+fffa8300-fffa8600  file 300-600  match
+fffa8600-fffa9200  uniform
+fffa9200-fffa9300  NO MATCH
+fffa9300-fffadf00  uniform
+fffadf00-fffae000  NO MATCH
+fffae000-fffaeb00  file 3e284-3ed84  match
+fffaeb00-fffaf000  uniform
+fffaf000-fffaf800  file 3f284-3fa84  match
+fffaf800-fffe0000  uniform
+fffe0000-fffe0300  NO MATCH
+fffe0300-fffe2500  file 70584-72784  match
+fffe2500-fffe2600  NO MATCH
+fffe2600-fffe9400  file 72884-79684  match
+fffe9400-fffe9500  file 78c80-78d80  match
+fffe9500-fffec100  file 79784-7c384  match
+fffec100-fffec200  NO MATCH
+fffec200-fffefd00  file 7c484-7ff84  match
+fffefd00-ffff0000  uniform
+ffff0000-ffff0400  NO MATCH
+ffff0400-ffff1000  uniform
+ffff1000-ffff3100  NO MATCH
+ffff3100-ffff3f00  uniform
+ffff3f00-ffff4000  NO MATCH
+ffff4000-ffff4f00  uniform
+ffff4f00-ffff6100  NO MATCH
+ffff6100-ffff7000  uniform
+ffff7000-ffffe900  NO MATCH
+ffffe900-fffffc00  uniform
+fffffc00-fffffd00  NO MATCH
+fffffd00-ffffff00  uniform
+ffffff00-100000000  NO MATCH
+bytes: matched 102912, no match 50176, uniform 1944064 (chunk 256)
