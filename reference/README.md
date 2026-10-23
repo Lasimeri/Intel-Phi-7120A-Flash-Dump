@@ -21,7 +21,7 @@ the archive.org item `intel-mpss-3.8.6`.
 
 ## Release assets
 
-Attached to the [`reference-tarballs`](../../../releases/tag/reference-tarballs) release because
+Attached to the [`reference-tarballs`](https://github.com/Lasimeri/Intel-Phi-7120A-Flash-Dump/releases/tag/reference-tarballs) release because
 they exceed GitHub's file size limit:
 
 | File | Size (bytes) | SHA-256 |

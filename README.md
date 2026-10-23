@@ -33,7 +33,7 @@ reference/                  Intel flash images 0390 and 0391, RAS maintenance EL
 
 The two MPSS archives behind `reference/` (`mpss-3.4.2-linux.tar.gz`, 417,388,746 bytes, and
 `mpss-src-3.8.6.tar`, 296,581,120 bytes) exceed GitHub's file size limit and are attached to the
-[`reference-tarballs`](../../releases/tag/reference-tarballs) release. Hashes are in
+[`reference-tarballs`](https://github.com/Lasimeri/Intel-Phi-7120A-Flash-Dump/releases/tag/reference-tarballs) release. Hashes are in
 [reference/README.md](reference/README.md).
 
 ## Reproducing the analysis
